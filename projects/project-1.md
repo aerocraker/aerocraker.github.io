@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/homeless.jpg
 title: Seattle Homelessness
 permalink: projects/seattlehomelessness
 # All dates must be YYYY-MM-DD format!
