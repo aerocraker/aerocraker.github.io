@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/election.jpg
 title: Office of Elections
 permalink: projects/elections
 # All dates must be YYYY-MM-DD format!
